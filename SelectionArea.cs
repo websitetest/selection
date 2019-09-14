@@ -112,7 +112,7 @@ namespace MyApp.View
 			get { return _rotateEllipse; }
 		}
 
-		public SolarPanelArea(Canvas canvas, double offsetX, double offsetY)
+		public SelectionArea(Canvas canvas, double offsetX, double offsetY)
 		{
 			_canvas = canvas;
 			_offsetX = offsetX;
