@@ -1,0 +1,17 @@
+C:\Users\John\source\repos\SelectionSolution\obj\Debug\InstallPlan\InstallPlanDrawingControl.g.cs
+C:\Users\John\source\repos\SelectionSolution\obj\Debug\MainWindow.g.cs
+C:\Users\John\source\repos\SelectionSolution\obj\Debug\App.g.cs
+C:\Users\John\source\repos\SelectionSolution\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\John\source\repos\SelectionSolution\obj\Debug\SelectionSolution_MarkupCompile.cache
+C:\Users\John\source\repos\SelectionSolution\obj\Debug\SelectionSolution_MarkupCompile.lref
+C:\Users\John\source\repos\SelectionSolution\bin\Debug\SelectionSolution.exe.config
+C:\Users\John\source\repos\SelectionSolution\bin\Debug\SelectionSolution.exe
+C:\Users\John\source\repos\SelectionSolution\bin\Debug\SelectionSolution.pdb
+C:\Users\John\source\repos\SelectionSolution\obj\Debug\InstallPlan\InstallPlanDrawingControl.baml
+C:\Users\John\source\repos\SelectionSolution\obj\Debug\MainWindow.baml
+C:\Users\John\source\repos\SelectionSolution\obj\Debug\SelectionSolution.g.resources
+C:\Users\John\source\repos\SelectionSolution\obj\Debug\SelectionSolution.Properties.Resources.resources
+C:\Users\John\source\repos\SelectionSolution\obj\Debug\SelectionSolution.csproj.GenerateResource.cache
+C:\Users\John\source\repos\SelectionSolution\obj\Debug\SelectionSolution.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\SelectionSolution\obj\Debug\SelectionSolution.exe
+C:\Users\John\source\repos\SelectionSolution\obj\Debug\SelectionSolution.pdb

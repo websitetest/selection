@@ -1,0 +1,18 @@
+﻿This application is a tool for drawing selections in a Canvas element.
+The Canvas element contains an Image that's used as a background. 
+The Image is usually an air picture of buildings.
+The user draws selections to mark specific spots in the air picture, like plots or the roof surfaces of buildings.
+Selections are for sketching over the air image and not for exact calculations or perfect measurements of buildings.
+
+I'll call the selection(s) in the Canvas "selection areas".
+
+Every selection area is a Canvas on itself, containing handles to resize and rotate the selection area.
+Later, it is also intended that the selection areas can be skewed.
+A selection area should behave exactly the same as a rectangular selection in Microsoft Word, to illistrate the idea.
+
+I thought this would be easy to implement, since it seemed easy to use the built in Transformations from the .NET framework.
+
+Stackoverflow:	https://stackoverflow.com/questions/57929789/how-to-handle-rotation-of-selection-rectangle-that-can-be-resized
+Github:			https://github.com/websitetest/selection
+
+This is a runnable solution, containing the starting point of the application and all relevant code.
